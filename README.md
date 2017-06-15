@@ -1,3 +1,3 @@
-# OpenIV offline installer (2.9)
+# OpenIV offline installer (lastest stable)
 
 # RIP OpenIV
